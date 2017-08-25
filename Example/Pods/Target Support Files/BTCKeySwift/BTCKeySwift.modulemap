@@ -1,0 +1,6 @@
+framework module BTCKeySwift {
+  umbrella header "BTCKeySwift-umbrella.h"
+
+  export *
+  module * { export * }
+}
